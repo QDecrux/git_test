@@ -1,10 +1,5 @@
 #include <iostream>
-
-
-void start_game()
-{
-
-}
+#include "lab_tools.h" 
 
 
 int main()
